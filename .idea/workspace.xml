@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d2d9c66-ac74-4dbd-b8c3-0a9177ecae64" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sas_seed_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/core/core.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/home/home.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shell/header-directive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shell/header.directive.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app.module.js" afterPath="$PROJECT_DIR$/src/app/app.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/exception/exception-handler.provider.js" afterPath="$PROJECT_DIR$/src/app/blocks/exception/exception-handler.provider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/exception/exception.js" afterPath="$PROJECT_DIR$/src/app/blocks/exception/exception.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/exception/exception.module.js" afterPath="$PROJECT_DIR$/src/app/blocks/exception/exception.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/logger/logger.js" afterPath="$PROJECT_DIR$/src/app/blocks/logger/logger.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/logger/logger.module.js" afterPath="$PROJECT_DIR$/src/app/blocks/logger/logger.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/router/routehelper.js" afterPath="$PROJECT_DIR$/src/app/blocks/router/routehelper.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/router/router.module.js" afterPath="$PROJECT_DIR$/src/app/blocks/router/router.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/core/core.module.js" afterPath="$PROJECT_DIR$/src/app/components/core/core.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/core/data.service.js" afterPath="$PROJECT_DIR$/src/app/components/core/data.service.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/home/home.controller.js" afterPath="$PROJECT_DIR$/src/app/components/home/home.controller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/home/home.html" afterPath="$PROJECT_DIR$/src/app/components/home/home.template.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/home/home.module.js" afterPath="$PROJECT_DIR$/src/app/components/home/home.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/home/sample-directive.html" afterPath="$PROJECT_DIR$/src/app/components/home/sample-directive.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/components/home/sample.directive.js" afterPath="$PROJECT_DIR$/src/app/components/home/sample.directive.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/src/app/css/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="$PROJECT_DIR$/src/app/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shell/shell.controller.js" afterPath="$PROJECT_DIR$/src/app/shell/shell.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-    </list>
+    <list default="true" id="9d2d9c66-ac74-4dbd-b8c3-0a9177ecae64" name="Default" comment="" />
     <ignored path="sas-seed.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69536424">
-              <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.49668875">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -552,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69536424">
-          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.49668875">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
       </provider>

@@ -9,7 +9,7 @@
 
 		var directive = {
 			restrict: 'EA',
-			templateUrl: './shell/header-directive.html',
+			templateUrl: './shell/header.directive.html',
 			scope: {
 
 			},
