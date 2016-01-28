@@ -7,8 +7,7 @@
 			'sas.core',
 
 			/* sas components */
-			'sas.home',
-			'sas.portfolio'
+			'sas.home'
 		]);
 
 })();
